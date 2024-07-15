@@ -1,16 +1,9 @@
 import './App.css';
-import { BrowserRouter as Router, useRoutes } from 'react-router-dom';
-import routes from './routes/routes';
-
-function AppRoutes() {
-  return useRoutes(routes);
-}
+import { Outlet } from 'react-router-dom';
 
 function App() {
   return (
-    <Router>
-      <AppRoutes />
-    </Router>
+    <Outlet/>
   );
 }
 
