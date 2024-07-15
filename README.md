@@ -1,4 +1,4 @@
-This simple react + springboot application is designed to implement and demonstrate jwt token security <br>
+This simple react + springboot application is designed to implement and demonstrate Authentication and Authorization and jwt token security <br>
 <br>
 Roles in application : <br>
 USER: can see all the other users <br>
