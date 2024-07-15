@@ -42,6 +42,7 @@ function Home() {
     function logout()
     {
         localStorage.removeItem('x-auth-token');
+        localStorage.removeItem('x-email');
         navigate('/');
         
     }
