@@ -14,28 +14,28 @@ Delete : to delete the user <br>
 Note : By default when user will register , user will get USER role , user's role can be changed through database directly <br>
 <br>
 Signup :
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/c737940f-db21-4eb0-afbd-0d9edc245be9">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/adea34bb-9816-4250-be46-bb5469aaf590">
 <br>
 Home :
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/f8d1e845-10af-4d8a-bf39-3be904bf8c19">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/c5839f7d-5fe0-409d-ae8c-5ba5503728f4">
 <br>
 Signin :
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/618fba6b-cf60-48b9-bc44-3500ba1f9c3f">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/30282bb9-5038-406d-b541-82c50d846eb4">
 <br>
 Details :
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/7a2575ac-9bed-4eab-aff9-5f1e16ed183f">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/d67704ba-476c-4c60-8be8-f07357452037">
 <br>
 Delete :
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/1cdf974a-d3b6-4fa4-9f4a-b5f4350dbc69">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/bde7c8ab-f54b-4b49-97f8-dbf032485414">
 <br>
 As user role is USER he can only see and not delete if try then he will receive 403 error
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/b706a7ac-536a-4a74-8387-720ed0e1d979">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/8a3a58e2-7506-415e-b4af-c08e3c318dea">
 <br>
 Database :
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/4af44134-f035-4420-b88b-25791c4cb157">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/37c4564a-ede8-4b9d-984d-0dd300aed96d">
 <br>
 Changing user role from DATABASE
-<img width="1440" alt="image" src="https://github.com/user-attachments/assets/377ca203-33cc-4dad-bc0b-27ffa63e55e2">
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/63103b6e-fe6a-4f93-b22f-be24d49f1e85">
 <br>
 As user is now ADMIN he can delete any other user
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/72c19ffb-4aa8-4503-87d6-e8a0d18809a3">
